@@ -1,0 +1,55 @@
+---
+interface Props {
+	title: string;
+}
+
+const { title } = Astro.props;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>prsnl.site - Collection of Personal Sites</title>
+
+    <meta name="description" content="prsnl.site">
+    <meta property="og:title" content="prsnl.site">
+    <meta property="og:image" content="./favicon.icon">
+    <meta property="og:description" content="prsnl.site - A Curated Collection of Personal Websites and Blogs">
+    <meta property="og:locale" content="en_GB">
+    <meta property="og:type" content="website">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="prsnl.site">
+    <meta name="twitter:description" content="prsnl.site - A Curated Collection of Personal Websites and Blogs">
+    <meta name="twitter:image" content="../prsnlsite.png">
+    <meta property="og:url" content="https://prsnl.site">
+    <link rel="canonical" href="prsnl.site">
+
+    <link rel="icon" href="./favicon.ico">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+    <meta name="theme-color" content="#000000">
+  </head>
+	<body>
+		<slot />
+	</body>
+</html>
+<style is:global>
+	html {
+		font-family: system-ui, sans-serif;
+		background: #13151a;
+		background-size: 224px;
+	}
+	code {
+		font-family:
+			Menlo,
+			Monaco,
+			Lucida Console,
+			Liberation Mono,
+			DejaVu Sans Mono,
+			Bitstream Vera Sans Mono,
+			Courier New,
+			monospace;
+	}
+</style>

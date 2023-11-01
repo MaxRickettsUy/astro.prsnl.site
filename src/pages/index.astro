@@ -1,0 +1,28 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Card from '../components/Card.astro';
+import json from './sites.json';
+
+json.map((j) => console.log(j.url))
+---
+
+<Layout title="Welcome to Astro.">
+	<main>
+		<div class="grid lg:grid-cols-3 gap-4">
+			{
+				json.map((j) => {
+					return <Card title={j.url} href={j.url} body={j.img}/>
+				})
+			}
+		</div>
+	</main>
+</Layout>
+
+<style>
+	main {
+		padding: 1rem;
+		color: white;
+		font-size: 20px;
+		line-height: 1.6;
+	}
+</style>
