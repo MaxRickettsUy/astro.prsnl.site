@@ -8,11 +8,12 @@ interface Props {
 const { href, title, body } = Astro.props;
 ---
 
-<li class="link-card max-h-72 overflow-hidden">
-	<a href={href}>
-		<img class="object-cover" src={body} />
+<div class="link-card max-h-72 overflow-hidden rounded-md">
+	<a href={href} target="_blank">
+		<img loading="lazy" class="object-cover hover:scale-125 transition-all duration-500 cursor-pointer rounded-md" src={body} />
 	</a>
-</li>
+</div>
+
 <style>
 	.link-card {
 		list-style: none;
@@ -54,5 +55,8 @@ const { href, title, body } = Astro.props;
 	}
 	.link-card > :only-child {
 		grid-column: 1/-1;
+	}
+	.object-cover:hover {
+		transform: scale(1.1);
 	}
 </style>

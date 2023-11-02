@@ -1,26 +1,52 @@
 ---
-import Layout from '../layouts/Layout.astro';
 import Card from '../components/Card.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import Layout from '../layouts/Layout.astro';
 import json from './sites.json';
 
-json.map((j) => console.log(j.url))
+const shuffled = () => {
+    let currentIndex = json.length, randomIndex;
+
+    // While there remain elements to shuffle.
+    while (currentIndex != 0) {
+        // Pick a remaining element.
+        randomIndex = Math.floor(Math.random() * currentIndex);
+        currentIndex--;
+
+        // And swap it with the current element.
+        [json[currentIndex], json[randomIndex]] = [json[randomIndex], json[currentIndex]];
+    }
+
+    return json;
+}
 ---
 
 <Layout title="Welcome to Astro.">
+	<Header json={json} />
 	<main>
 		<div class="grid lg:grid-cols-3 gap-4">
 			{
-				json.map((j) => {
-					return <Card title={j.url} href={j.url} body={j.img}/>
+				shuffled().map((j) => {
+					return (
+						<div class="flex flex-col">
+							<Card title={j.url} href={j.url} body={j.img}/>
+							<div class="flex flex-row justify-between">
+								<a class="text-sm hover:underline" href={j.url} target="_blank">{j.url}</a>
+								<span class="text-sm">{j.dateUpdated}</span>
+							</div>
+						</div>
+					)
 				})
 			}
 		</div>
 	</main>
+	<Footer />
 </Layout>
 
 <style>
 	main {
-		padding: 1rem;
+		padding: 12px;
 		color: white;
 		font-size: 20px;
 		line-height: 1.6;
