@@ -10,7 +10,7 @@ const { href, title, body } = Astro.props;
 
 <div class="link-card max-h-72 overflow-hidden rounded-md">
 	<a href={href} target="_blank">
-		<img loading="lazy" class="object-cover hover:scale-125 transition-all duration-500 cursor-pointer rounded-md" src={body} />
+		<img loading="lazy" class="object-cover object-center w-full h-full hover:scale-125 transition-all duration-500 cursor-pointer rounded-md" src={body} />
 	</a>
 </div>
 
