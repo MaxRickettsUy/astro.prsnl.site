@@ -28,3 +28,11 @@ Removed:
 Added:
   - https://marcoroth.dev
 
+11/17/2023
+Added:
+  - https://doceazedo.com/
+  - https://jvt.me
+  - https://robinrendle.com
+  - https://sandrarodgers.com
+  - https://calebk.com
+
