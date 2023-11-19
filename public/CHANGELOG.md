@@ -36,3 +36,8 @@ Added:
   - https://sandrarodgers.com
   - https://calebk.com
 
+11/18/2023
+ - https://vijayverma.co
+ - https://xavd.id
+ - https://trstringer.com
+
