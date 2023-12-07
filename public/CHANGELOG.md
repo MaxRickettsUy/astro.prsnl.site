@@ -37,7 +37,11 @@ Added:
   - https://calebk.com
 
 11/18/2023
+Added:
  - https://vijayverma.co
  - https://xavd.id
  - https://trstringer.com
 
+12/06/2023
+Added:
+  - https://sean-crim.com
