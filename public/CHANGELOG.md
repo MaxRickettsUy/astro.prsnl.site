@@ -45,3 +45,8 @@ Added:
 12/06/2023
 Added:
   - https://sean-crim.com
+
+12/20/2023
+Added:
+  - https://zachleat.com
+  - https://molefrog.com
