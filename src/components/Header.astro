@@ -10,7 +10,7 @@ const { json } = Astro.props;
 <div class="flex lg:flex-row md:flex-row xl:flex-row flex-col justify-between py-4 text-white text-sm px-8">
   <span class="text-4xl">prsnl.site</span>
   <div class="flex flex-row items-center gap-8 ">
-    <span>Now showcasing { json.length } sites!</span>
+    <span>Now showcasing <a class="hover:underline" href="/sites">{ json.length }</a> sites!</span>
     <a class="text-white hover:text-green-500 underline self-center" target="_blank" href="https://github.com/MaxRickettsUy/prsnl.site/issues">Submit your site here</a>
   </div>
 </div>

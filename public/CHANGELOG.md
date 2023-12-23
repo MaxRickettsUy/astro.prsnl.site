@@ -50,3 +50,8 @@ Added:
 Added:
   - https://zachleat.com
   - https://molefrog.com
+
+12/23/2023
+Added:
+  - https://carlana.net
+  - https://sandren.com
