@@ -55,3 +55,10 @@ Added:
 Added:
   - https://carlana.net
   - https://sandren.com
+
+01/10/2024
+Added:
+  - https://ped.ro
+  - https://kyledrake.com
+  - https://fromjason.xyz
+  - https://ellie.wtf
