@@ -1,6 +1,7 @@
 ---
 import Card from '@components/Card.astro';
 import Footer from '@components/Footer.astro';
+import Github from '@components/Github.astro';
 import Header from '@components/Header.astro';
 import Layout from '@layouts/Layout.astro';
 import json from '@public/sites.json';
@@ -32,7 +33,10 @@ const shuffled = () => {
 						<div class="flex flex-col">
 							<Card title={j.url} href={j.url} body={j.img}/>
 							<div class="flex flex-row justify-between">
-								<a class="text-sm hover:underline" href={j.url} target="_blank">{j.url}</a>
+								<div class="flex flex-row gap-1 items-center">
+									<a class="text-sm hover:underline" href={j.url} target="_blank">{j.url}</a>
+									<Github src={j.gh} />
+								</div>
 								<span class="text-sm">{j.dateUpdated}</span>
 							</div>
 						</div>

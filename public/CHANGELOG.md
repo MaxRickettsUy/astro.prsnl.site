@@ -62,3 +62,12 @@ Added:
   - https://kyledrake.com
   - https://fromjason.xyz
   - https://ellie.wtf
+
+01/14/2024
+Removed:
+  - https://drewdevault.com
+  - https://derekkay.com/
+Updated:
+  - https://calebporz.io -> https://calebporzio.com
+Added:
+  - https://sindresorhus.com/

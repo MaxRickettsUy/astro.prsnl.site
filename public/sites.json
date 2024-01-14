@@ -30,7 +30,7 @@
     "dateUpdated": "04/05/2022"
   },
   {
-    "url": "https://calebporz.io",
+    "url": "https://calebporzio.com",
     "img": "https://res.cloudinary.com/shoveltoss-com/image/upload/v1649986403/prsnl.site/calebporziocom_cwe3fs_cws4hy.webp",
     "dateUpdated":"04/05/2022"
   },
@@ -67,11 +67,6 @@
   {
     "url": "https://adamconrad.dev",
     "img": "https://res.cloudinary.com/shoveltoss-com/image/upload/v1649986403/prsnl.site/adamconraddev_chnqzv_chsahq.webp",
-    "dateUpdated": "04/08/2022"
-  },
-  {
-    "url": "https://drewdevault.com",
-    "img": "https://res.cloudinary.com/shoveltoss-com/image/upload/v1649986403/prsnl.site/drewdevaultcom_d1znab_gxqwdx.webp",
     "dateUpdated": "04/08/2022"
   },
   {
@@ -127,6 +122,7 @@
   {
     "url": "https://matthewshields.co.uk/",
     "img": "https://res.cloudinary.com/shoveltoss-com/image/upload/v1650591009/prsnl.site/matthewshields.co.uk_xh9tua.webp",
+    "gh": "https://github.com/MatthewShields/matthewshields.co.uk",
     "dateUpdated": "04/21/2022"
   },
   {
@@ -261,11 +257,6 @@
     "dateUpdated": "10/28/2023"
   },
   {
-    "url": "https://derekkay.com",
-    "img": "https://res.cloudinary.com/shoveltoss-com/image/upload/v1698547344/prsnl.site/darekkaycom_cl41gp.webp",
-    "dateUpdated": "10/28/2023"
-  },
-  {
     "url": "https://garden.bradwoods.io",
     "img": "https://res.cloudinary.com/shoveltoss-com/image/upload/v1698547918/prsnl.site/garden.bradwoodsio_hhawg9.webp",
     "dateUpdated": "10/28/2023"
@@ -369,5 +360,11 @@
     "url": "https://ellie.wtf",
     "img": "https://res.cloudinary.com/shoveltoss-com/image/upload/v1704941165/prsnl.site/elliewtf_ubijdt.webp",
     "dateUpdated": "01/10/2024"
+  },
+  {
+    "url": "https://sindresorhus.com/",
+    "gh": "https://github.com/sindresorhus/sindresorhus.github.com",
+    "img": "https://res.cloudinary.com/shoveltoss-com/image/upload/v1705244632/prsnl.site/bqxalbvkmwcrmajczwma.webp",
+    "dateUpdated": "01/14/2024"
   }
 ]
