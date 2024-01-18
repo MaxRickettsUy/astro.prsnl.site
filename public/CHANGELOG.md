@@ -75,3 +75,7 @@ Added:
 01/16/2023
 Added:
   - https://cassidoo.co
+
+01/17/2024
+Updated:
+  - https://vitalik.ca -> https://vitalik.eth.limo
