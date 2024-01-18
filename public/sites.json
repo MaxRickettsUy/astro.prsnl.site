@@ -1,21 +1,24 @@
 [
   {
     "url": "https://brianlovin.com",
+    "gh": "https://github.com/brianlovin/briOS",
     "img": "https://res.cloudinary.com/shoveltoss-com/image/upload/v1649986403/prsnl.site/brianlovincom_tmvg1d_lya1bm.webp",
     "dateUpdated": "3/26/2022"
   },
   {
     "url": "https://aschmelyun.com",
+    "gh": "https://github.com/aschmelyun/site",
     "img": "https://res.cloudinary.com/shoveltoss-com/image/upload/v1649986403/prsnl.site/aschemlyuncom_z0hjat_upp6cp.webp",
     "dateUpdated": "3/26/2022"
   },
   {
-    "url": "https://vitalik.ca",
-    "img": "https://res.cloudinary.com/shoveltoss-com/image/upload/v1649986405/prsnl.site/vitalikca_txemvy_gwnmcu.webp",
-    "dateUpdated": "3/26/2022"
+    "url": "https://vitalik.eth.limo/",
+    "img": "https://res.cloudinary.com/shoveltoss-com/image/upload/v1705547431/vitalik.eth.limo_tagefx.webp",
+    "dateUpdated": "01/17/2024"
   },
   {
     "url": "https://swyx.io",
+    "gh": "https://github.com/swyxio/swyxdotio",
     "img": "https://res.cloudinary.com/shoveltoss-com/image/upload/v1649986404/prsnl.site/swyxio_di56dq_usz2b8.webp",
     "dateUpdated": "04/05/2022"
   },
@@ -41,6 +44,7 @@
   },
   {
     "url": "https://leerob.io",
+    "gh": "https://github.com/leerob/leerob.io",
     "img": "https://res.cloudinary.com/shoveltoss-com/image/upload/v1698545177/prsnl.site/leerobio_qkkqr4.webp",
     "dateUpdated": "10/28/2023"
   },
@@ -61,6 +65,7 @@
   },
   {
     "url": "https://whitep4nth3r.com",
+    "gh": "https://github.com/whitep4nth3r/mk2-p4nth3rblog",
     "img": "https://res.cloudinary.com/shoveltoss-com/image/upload/v1698545386/prsnl.site/whitep4nth3rcom_y9iw8t.webp",
     "dateUpdated": "10/28/2023"
   },
@@ -76,11 +81,13 @@
   },
   {
     "url": "https://tatianamac.com",
+    "gh": "https://github.com/tatianamac/tm11ty",
     "img": "https://res.cloudinary.com/shoveltoss-com/image/upload/v1698546164/prsnl.site/tatianamaccom_luyu9t.webp",
     "dateUpdated": "10/28/2023"
   },
   {
     "url": "https://connellmccarthy.com",
+    "gh": "https://github.com/connellmccarthy/connellmccarthy.github.io",
     "img": "https://res.cloudinary.com/shoveltoss-com/image/upload/v1698545515/prsnl.site/connellmccarthycom_ek94uz.webp",
     "dateUpdated": "10/28/2023"
   },
@@ -91,6 +98,7 @@
   },
   {
     "url": "https://marcbouchenoire.com/",
+    "gh": "https://github.com/marcbouchenoire/marcbouchenoire.com",
     "img": "https://res.cloudinary.com/shoveltoss-com/image/upload/v1698546043/prsnl.site/marcbouchenoirecom_qc8h1s.webp",
     "dateUpdated": "10/28/2023"
   },
@@ -106,11 +114,13 @@
   },
   {
     "url": "https://lipanski.com/",
+    "gh": "https://github.com/lipanski/lipanski.github.io",
     "img": "https://res.cloudinary.com/shoveltoss-com/image/upload/v1649989017/prsnl.site/lipanskicom_eztxra.webp",
     "dateUpdated": "04/14/2022"
   },
   {
     "url": "https://loganmarchione.com/",
+    "gh": "https://github.com/loganmarchione/loganmarchione.com",
     "img": "https://res.cloudinary.com/shoveltoss-com/image/upload/v1649989017/prsnl.site/loganmarchionecom_na1zar.webp",
     "dateUpdated": "04/14/2022"
   },
@@ -132,6 +142,7 @@
   },
   {
     "url": "https://mtlynch.io/",
+    "gh": "https://github.com/mtlynch/mtlynch.io",
     "img": "https://res.cloudinary.com/shoveltoss-com/image/upload/v1650936040/prsnl.site/mtlynchio_bq2uer.webp",
     "dateUpdated": "04/25/2022"
   },
@@ -152,6 +163,7 @@
   },
   {
     "url": "https://mxstbr.com/",
+    "gh": "https://github.com/mxstbr/mxstbr.com",
     "img": "https://res.cloudinary.com/shoveltoss-com/image/upload/v1651715319/prsnl.site/mxstbrcom_bkks3r.webp",
     "dateUpdated": "05/04/2022"
   },
@@ -172,6 +184,7 @@
   },
   {
     "url": "https://kwon.nyc",
+    "gh": "https://github.com/rjkwon/personal",
     "img": "https://res.cloudinary.com/shoveltoss-com/image/upload/v1653355051/prsnl.site/kwonnyc_nnuv8p.webp",
     "dateUpdated": "05/23/2022"
   },
@@ -208,11 +221,13 @@
   },
   {
     "url": "https://mitchellhanberg.com",
+    "gh": "https://github.com/mhanberg/blog",
     "img": "https://res.cloudinary.com/shoveltoss-com/image/upload/v1655346512/prsnl.site/mitchellhanbergcom_junrm8.webp",
     "dateUpdated": "06/15/2022"
   },
   {
     "url": "https://bradgarropy.com",
+    "gh": "https://github.com/bradgarropy/bradgarropy.com",
     "img": "https://res.cloudinary.com/shoveltoss-com/image/upload/v1655947312/prsnl.site/bradgarropycom_qfrqa9.webp",
     "dateUpdated": "06/22/2022"
   },
@@ -233,6 +248,7 @@
   },
   {
     "url": "https://mollywhite.net",
+    "gh": "https://github.com/molly/website-v3",
     "img": "https://res.cloudinary.com/shoveltoss-com/image/upload/v1698544428/prsnl.site/mollywhitenet_h2nj1p.webp",
     "dateUpdated": "10/28/2023"
   },
@@ -243,11 +259,13 @@
   },
   {
     "url": "https://heather-buchel.com",
+    "gh": "https://github.com/hbuchel/heather-buchel.com",
     "img": "https://res.cloudinary.com/shoveltoss-com/image/upload/v1698546482/prsnl.site/heather-buchelcom_aq1ese.webp",
     "dateUpdated": "10/28/2023"
   },
   {
     "url": "https://patrickweaver.net",
+    "gh": "https://github.com/patrickweaver/pw20",
     "img": "https://res.cloudinary.com/shoveltoss-com/image/upload/v1698547007/prsnl.site/patrickweavernet_fy5jir.webp",
     "dateUpdated": "10/28/2023"
   },
@@ -263,13 +281,15 @@
   },
   {
     "url": "https://clairefro.dev",
+    "gh": "https://github.com/clairefro/website",
     "img": "https://res.cloudinary.com/shoveltoss-com/image/upload/v1698548134/prsnl.site/clairefrodev_wegtve.webp",
     "dateUpdated": "10/28/2023"
   },
   {
     "url": "https://lynnandtonic.com",
-    "img": "https://res.cloudinary.com/shoveltoss-com/image/upload/v1698548349/prsnl.site/lynnandtoniccom_q2ehoc.webp",
-    "dateUpdated": "10/28/2023"
+    "gh": "https://github.com/lynnandtonic/lynnandtonic.com",
+    "img": "https://res.cloudinary.com/shoveltoss-com/image/upload/v1705547668/lynnandtoniccom_ahxy1i.webp",
+    "dateUpdated": "01/17/2024"
   },
   {
     "url": "https://marcoroth.dev",
@@ -278,11 +298,13 @@
   },
   {
     "url": "https://doceazedo.com/",
+    "gh": "https://github.com/doceazedo/doceazedo.com",
     "img": "https://res.cloudinary.com/shoveltoss-com/image/upload/v1700273878/prsnl.site/doceazedocom_b4yg4n.webp",
     "dateUpdated": "11/17/2023"
   },
   {
     "url": "https://jvt.me",
+    "gh": "https://gitlab.com/tanna.dev/jvt.me",
     "img": "https://res.cloudinary.com/shoveltoss-com/image/upload/v1700274070/prsnl.site/jvtme_s4ysgi.webp",
     "dateUpdated": "11/17/2023"
   },
@@ -293,6 +315,7 @@
   },
   {
     "url": "https://sandrarodgers.com",
+    "gh": "https://github.com/SandraRodgers/sandra-personal-site",
     "img": "https://res.cloudinary.com/shoveltoss-com/image/upload/v1700274488/prsnl.site/sandrarodgerscom_vi28fp.png",
     "dateUpdated": "11/17/2023"
   },
@@ -308,11 +331,13 @@
   },
   {
     "url": "https://xavd.id",
+    "gh": "https://github.com/xavdid/website",
     "img": "https://res.cloudinary.com/shoveltoss-com/image/upload/v1700359458/prsnl.site/xavdid_rccj1c.webp",
     "dateUpdated": "11/18/2023"
   },
   {
     "url": "https://trstringer.com",
+    "gh": "https://github.com/trstringer/trstringer.github.io",
     "img": "https://res.cloudinary.com/shoveltoss-com/image/upload/v1700359699/prsnl.site/trstringercom_jbtwgt.webp",
     "dateUpdated": "11/18/2023"
   },
@@ -323,11 +348,13 @@
   },
   {
     "url": "https://zachleat.com",
+    "gh": "https://github.com/zachleat/zachleat.com",
     "img": "https://res.cloudinary.com/shoveltoss-com/image/upload/v1703126287/prsnl.site/zachleatcom_dnhykq.webp",
     "dateUpdated": "12/20/2023"
   },
   {
     "url": "https://molefrog.com",
+    "gh": "https://github.com/molefrog/molefrog.com",
     "img": "https://res.cloudinary.com/shoveltoss-com/image/upload/v1703126414/prsnl.site/molefrogcom_us9tks.webp",
     "dateUpdated": "12/20/2023"
   },
@@ -358,6 +385,7 @@
   },
   {
     "url": "https://ellie.wtf",
+    "gh": "https://github.com/ellie/notes",
     "img": "https://res.cloudinary.com/shoveltoss-com/image/upload/v1704941165/prsnl.site/elliewtf_ubijdt.webp",
     "dateUpdated": "01/10/2024"
   },
