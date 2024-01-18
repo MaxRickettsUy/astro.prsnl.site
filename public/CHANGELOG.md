@@ -71,3 +71,7 @@ Updated:
   - https://calebporz.io -> https://calebporzio.com
 Added:
   - https://sindresorhus.com/
+
+01/16/2023
+Added:
+  - https://cassidoo.co
