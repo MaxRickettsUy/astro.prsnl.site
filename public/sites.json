@@ -400,5 +400,35 @@
     "gh": "https://github.com/cassidoo/cassidoo-v5",
     "img": "https://res.cloudinary.com/shoveltoss-com/image/upload/v1705412984/cassidooco_qxhkrr.webp",
     "dateUpdated": "01/16/2024"
+  },
+  {
+    "url": "https://ben.page",
+    "gh": "https://github.com/benborgers/ben.page",
+    "img": "https://res.cloudinary.com/shoveltoss-com/image/upload/v1708487886/prsnl.site/benpage_opm8az.webp",
+    "dateUpdated": "02/20/2024"
+  },
+  {
+    "url": "https://maxrozen.com",
+    "gh": "",
+    "img": "https://res.cloudinary.com/shoveltoss-com/image/upload/v1708488102/prsnl.site/maxrozencom_tuq0gt.webp",
+    "dateUpdated": "02/20/2024"
+  },
+  {
+    "url": "https://coreyd.dev",
+    "gh": "https://github.com/cdransf/coryd.dev",
+    "img": "https://res.cloudinary.com/shoveltoss-com/image/upload/v1708488359/prsnl.site/coryddev_s4z5th.webp",
+    "dateUpdated": "02/20/2024"
+  },
+  {
+    "url": "https://willbush.dev",
+    "gh": "https://github.com/willbush/blog",
+    "img": "https://res.cloudinary.com/shoveltoss-com/image/upload/v1708488593/prsnl.site/willbushdev_tyteqc.webp",
+    "dateUpdated": "02/20/2024"
+  },
+  {
+    "url": "https://mrmr.io",
+    "gh": "https://github.com/mnvr/mrmr.io",
+    "img": "https://res.cloudinary.com/shoveltoss-com/image/upload/v1708488739/prsnl.site/mrmrio_ncg8jx.webp",
+    "dateUpdated": "02/20/2024"
   }
 ]
