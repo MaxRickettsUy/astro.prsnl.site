@@ -409,7 +409,6 @@
   },
   {
     "url": "https://maxrozen.com",
-    "gh": "",
     "img": "https://res.cloudinary.com/shoveltoss-com/image/upload/v1708488102/prsnl.site/maxrozencom_tuq0gt.webp",
     "dateUpdated": "02/20/2024"
   },
@@ -430,5 +429,33 @@
     "gh": "https://github.com/mnvr/mrmr.io",
     "img": "https://res.cloudinary.com/shoveltoss-com/image/upload/v1708488739/prsnl.site/mrmrio_ncg8jx.webp",
     "dateUpdated": "02/20/2024"
+  },
+  {
+    "url": "https://kevquirk.com",
+    "img": "https://res.cloudinary.com/shoveltoss-com/image/upload/v1709436620/prsnl.site/kevquirkcom_bxjgua.webp",
+    "dateUpdated": "03/02/2024"
+  },
+  {
+    "url": "https://freeman.vc",
+    "img": "https://res.cloudinary.com/shoveltoss-com/image/upload/v1709436886/prsnl.site/freemanvc_lmbrbr.webp",
+    "dateUpdated": "03/02/2024"
+  },
+  {
+    "url": "https://chrlschn.dev",
+    "gh": "https://github.com/CharlieDigital/chrlschn",
+    "img": "https://res.cloudinary.com/shoveltoss-com/image/upload/v1709437039/prsnl.site/chrlschndev_xv9xze.webp",
+    "dateUpdated": "03/02/2024"
+  },
+  {
+    "url": "https://wezfurlong.org/",
+    "gh": "https://github.com/wez/wez.github.io",
+    "img": "https://res.cloudinary.com/shoveltoss-com/image/upload/v1709437214/prsnl.site/wezfurlongorg_hi4rti.webp",
+    "dateUpdated": "03/02/2024"
+  },
+  {
+    "url": "https://kayserifserif.place/",
+    "gh": "https://github.com/kayserifserif/kayserifserif.place",
+    "img": "https://res.cloudinary.com/shoveltoss-com/image/upload/v1709437374/prsnl.site/kayserifserifplace_zlejim.webp",
+    "dateUpdated": "03/02/2024"
   }
 ]

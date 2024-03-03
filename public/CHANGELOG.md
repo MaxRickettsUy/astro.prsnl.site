@@ -80,10 +80,18 @@ Added:
 Updated:
   - https://vitalik.ca -> https://vitalik.eth.limo
 
-02/20/24
+02/20/2024
 Added:
   - https://ben.page
   - https://maxrozen.com
   - https://coreyd.dev
   - https://willbush.dev
   - https://mrmr.io
+
+03/02/2024
+Added:
+  - https://kevquirk.com
+  - https://freeman.vc
+  - https://chrlschn.dev
+  - https://wezfurlong.org
+  - https://kayserifserif.place
