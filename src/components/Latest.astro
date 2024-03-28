@@ -1,0 +1,15 @@
+---
+import json from '@public/sites.json';
+
+const latest = json.filter(f => f.new)
+---
+
+<div class="my-1 p-4 border rounded-lg w-full">
+  <span>latest</span>
+  <div class="flex flex-col gap-1">
+    {
+      json.filter(j => j.new).map(l => <a class="text-sm hover:underline hover:text-green-500" href={l.url}>{l.url}</a>)
+    }
+  </div>
+  <span class="text-sm self-end">Updated - {latest[0].dateUpdated}</span>
+</div>

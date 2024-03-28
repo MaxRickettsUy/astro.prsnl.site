@@ -6,6 +6,22 @@ import Header from '@components/Header.astro';
 import Latest from '@components/Latest.astro';
 import Layout from '@layouts/Layout.astro';
 import json from '@public/sites.json';
+
+const shuffled = () => {
+	let currentIndex = json.length, randomIndex: number;
+
+	// While there remain elements to shuffle.
+	while (currentIndex != 0) {
+			// Pick a remaining element.
+			randomIndex = Math.floor(Math.random() * currentIndex);
+			currentIndex--;
+
+			// And swap it with the current element.
+			[json[currentIndex], json[randomIndex]] = [json[randomIndex], json[currentIndex]];
+	}
+
+	return json;
+}
 ---
 
 <Layout title="Welcome to Astro.">
@@ -14,13 +30,13 @@ import json from '@public/sites.json';
 		<Latest />
 		<div class="grid lg:grid-cols-3 gap-4">
 			{
-				json.slice(-9).map((j) => {
+				shuffled().map((j) => {
 					return (
 						<div class="flex flex-col">
 							<Card title={j.url} href={j.url} body={j.img}/>
 							<div class="flex flex-row justify-between">
 								<div class="flex flex-row gap-1 items-center">
-									<a class="text-sm hover:underline" href={j.url} target="_blank">{j.url}</a>
+									<a class="text-sm hover:underline hover:text-green-500" href={j.url} target="_blank">{j.url}</a>
 									<Github src={j.gh} />
 								</div>
 								<span class="text-sm">{j.dateUpdated}</span>
@@ -30,7 +46,6 @@ import json from '@public/sites.json';
 				})
 			}
 		</div>
-		<a class="text-center border rounded-lg w-full mt-4 hover:bg-indigo-500" href="/all">See All</a>
 	</main>
 	<Footer />
 </Layout>
