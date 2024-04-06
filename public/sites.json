@@ -470,20 +470,42 @@
   },
   {
     "url": "https://ohhelloana.blog/",
+    "gh": "https://github.com/ohhelloana/ohhelloana",
     "img": "https://res.cloudinary.com/shoveltoss-com/image/upload/v1711589588/prsnl.site/ohhelloanablog_vycujs.webp",
-    "dateUpdated": "03/27/2024",
-    "new": true
+    "dateUpdated": "03/27/2024"
   },
   {
     "url": "https://aaronfrancis.com",
     "img": "https://res.cloudinary.com/shoveltoss-com/image/upload/v1711589775/prsnl.site/aaronfranciscom_thql9l.webp",
-    "dateUpdated": "03/27/2024",
-    "new": true
+    "dateUpdated": "03/27/2024"
   },
   {
     "url": "https://cortes.us",
     "img": "https://res.cloudinary.com/shoveltoss-com/image/upload/v1711590005/prsnl.site/cortesus_juf2ns.webp",
-    "dateUpdated": "03/27/2024",
+    "dateUpdated": "03/27/2024"
+  },
+  {
+    "url": "https://geohot.github.io",
+    "img": "https://res.cloudinary.com/shoveltoss-com/image/upload/v1712427557/prsnl.site/geohotgithubio_qxquj7.webp",
+    "dateUpdated": "04/06/2024",
+    "new": true
+  },
+  {
+    "url": "https://darn.es",
+    "img": "https://res.cloudinary.com/shoveltoss-com/image/upload/v1712427757/prsnl.site/darnes_bgd3j4.webp",
+    "dateUpdated": "04/06/2024",
+    "new": true
+  },
+  {
+    "url": "https://samdickie.me",
+    "img": "https://res.cloudinary.com/shoveltoss-com/image/upload/v1712427871/prsnl.site/samdickieme_fbow8s.webp",
+    "dateUpdated": "04/06/2024",
+    "new": true
+  },
+  {
+    "url": "https://jeffsander.co",
+    "img": "https://res.cloudinary.com/shoveltoss-com/image/upload/v1712427990/prsnl.site/jeffandersco_ncm3d2.webp",
+    "dateUpdated": "04/06/2024",
     "new": true
   }
 ]
