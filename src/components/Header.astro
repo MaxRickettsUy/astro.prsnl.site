@@ -7,11 +7,12 @@ interface Props {
 const { json } = Astro.props;
 ---
 
-<div class="flex lg:flex-row md:flex-row xl:flex-row flex-col justify-between py-4 text-white text-sm px-8">
-  <span class="text-4xl">prsnl.site</span>
-  <div class="flex flex-row items-center gap-8 ">
-    <span>Now showcasing <a class="hover:underline" href="/sites">{ json.length }</a> sites!</span>
-    <a class="text-white hover:text-green-500 underline self-center" target="_blank" href="https://github.com/MaxRickettsUy/prsnl.site/issues">Submit your site here</a>
+<div class="flex lg:flex-row md:flex-row xl:flex-row flex-col justify-between py-4 text-white text-sm px-4">
+  <div class="flex flex-1 flex-row items-center gap-8 ">
+    <a href="/"><img src="/favicon.ico" /></a>
+    <span class="flex flex-1"></span>
+    <span class="hidden lg:inline md:inline xl:inline">Now showcasing <a class="hover:underline" href="/sites">{ json.length }</a> sites!</span>
+    <a class="text-white hover:text-green-500 underline self-center hidden lg:inline md:inline xl:inline" target="_blank" href="https://github.com/MaxRickettsUy/prsnl.site/issues">Submit your site here</a>
     <a target="_blank" href="https://github.com/MaxRickettsUy/astro.prsnl.site">
       <svg role="img" viewBox="0 0 24 24" height="24" width="24" xmlns="http://www.w3.org/2000/svg">
         <title>GitHub</title>
